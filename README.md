@@ -12,4 +12,4 @@ This application makes use of the following external resources:
 * Version 4.8.0 of the D3 library
 * The d3-tip library
 * he CTPS Accessible Grid Object library (in a separate repo)
-* A custom build of version 2.8.2 the modernizr.js library that test for SVG support in the browser
+* A custom build of version 2.8.2 the modernizr.js library that tests for SVG support in the browser
