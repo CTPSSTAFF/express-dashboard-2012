@@ -1,0 +1,1 @@
+Placeholder file to enabl GitHub to create a subdirectory for the JPEG congestion scan files used by this app.
