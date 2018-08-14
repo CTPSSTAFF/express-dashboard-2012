@@ -1,0 +1,1 @@
+Placeholder to allow GitHub to create a subdirectory with image data used by this app.
