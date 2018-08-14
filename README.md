@@ -5,11 +5,11 @@ This application was originally implemented by Ben Krepp using OpenLayers 2.13 a
 
 This application makes use of the following external resources:
 
-Version 1.11.1 of the jQuery library
-Version 1.10.4 of the jQuery-ui library
-Version 2.4.3 of the Proj4.js library
-Version 4.2.0 of the OpenLayers library
-Version 4.8.0 of the D3 library
-The d3-tip library
-The CTPS Accessible Grid Object library (in a separate repo)
-A custom build of version 2.8.2 the modernizr.js library that test for SVG support in the browser
+* Version 1.11.1 of the jQuery library
+* Version 1.10.4 of the jQuery-ui library
+* Version 2.4.3 of the Proj4.js library
+* Version 4.2.0 of the OpenLayers library
+* Version 4.8.0 of the D3 library
+* The d3-tip library
+* he CTPS Accessible Grid Object library (in a separate repo)
+* A custom build of version 2.8.2 the modernizr.js library that test for SVG support in the browser
